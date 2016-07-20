@@ -1,0 +1,28 @@
+{
+  "name": "rsl_fileserver",
+  "version": "1.0.0",
+  "description": "This Module enables the substitution of variable data into templates via a context variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewTrefethen/rsl_fileserver.git"
+  },
+  "keywords": [
+    "Templating",
+    "Substitution"
+  ],
+  "author": "Andrew Trefethen <andrew.l.trefethen@gmail.com> (https://www.facebook.com/alttrefethen)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewTrefethen/rsl_fileserver/issues"
+  },
+  "homepage": "https://github.com/AndrewTrefethen/rsl_fileserver#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "streamtest": "^1.2.2"
+  }
+}
